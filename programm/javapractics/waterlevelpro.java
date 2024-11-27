@@ -1,5 +1,5 @@
  
- package programm;
+ package programm.javapractics;
  class waterlevelpro {
     private static int findlevelfillwatter(int waterlevel[]) {
 

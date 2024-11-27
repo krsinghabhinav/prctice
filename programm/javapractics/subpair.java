@@ -1,4 +1,4 @@
-package programm;
+package programm.javapractics;
 
 public class subpair {
    public static  int subpaier(int num[]){

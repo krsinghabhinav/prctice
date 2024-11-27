@@ -1,3 +1,4 @@
+package programm.javapractics;
 import java.util.Scanner;
 
 public class hello {

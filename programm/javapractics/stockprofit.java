@@ -1,4 +1,4 @@
-package programm;
+package programm.javapractics;
 
 public class stockprofit {
 
@@ -6,7 +6,7 @@ public class stockprofit {
         int buyPrice = Integer.MAX_VALUE; // Set to MAX_VALUE to find the minimum price
         int maxProfit = 0; // Variable to track the maximum profit
 
-        for (int i = 0; i < pricerate.length; i++) {
+        for (int i = 1; i < pricerate.length; i++) {
 
             if(buyPrice <pricerate[i] ){
                 int profite= pricerate[i]-buyPrice;
